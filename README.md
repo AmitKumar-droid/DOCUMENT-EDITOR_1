@@ -22,4 +22,4 @@ React.js: Frontend framework for building the user interface and handling user i
 Node.js: Backend runtime environment to handle requests, manage document data, and connect to the MongoDB database.
 Express.js: Web framework for building the API and serving the frontend assets.
 MongoDB: NoSQL database for storing documents and user data.
-OUTPUT OF THE TASK:
+OUTPUT OF THE TASK: (https://github.com/user-attachments/assets/6d9a414c-8188-4710-8be6-d7ac01085067)
